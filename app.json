@@ -34,6 +34,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d0be2bae-15dd-4c00-9f3a-911359502b1d"
+      }
+    },
+    "owner": "cetin_vicky"
   }
 }
